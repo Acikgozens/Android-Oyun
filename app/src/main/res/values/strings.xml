@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OyunHafta06</string>
+
+    <string name="mor">Mor</string>
+    <string name="mavi">Mavi</string>
+    <string name="sari">Sarı</string>
+    <string name="turuncu">Turuncu</string>
+    <string name="yesil">Yeşil</string>
+    <string name="kirmizi">Kırmızı</string>
+
+</resources>
