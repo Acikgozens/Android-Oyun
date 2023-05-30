@@ -1,1 +1,1 @@
-# Android Oyun Programşama Projesi.
+# Android Oyun Programlama Projesi.
